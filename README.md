@@ -18,12 +18,22 @@ I have already deployed a smart contract over Goreli Testnet, and the details of
 
 
 # Deploy your own smart contract 
-To deploy your own Message Passing smart contract.
-  a) Downalod the given source code in your machine.
-  b) Copy solidity code from the Inbox.sol file 
-  c) Open Remix-Ethereum IDE on machine/chrome
-  d) Erase and paste copied code in Ballot.sol file 
-  e) Deploy using Integrated Web - Goreli Network Metamask 
-  f) Hurrrraahhhh !!! Your contract is deployed.
+Method 1:\
+To deploy your own Message Passing smart contract.\
+  a) Downalod the given source code in your machine.\
+  b) Copy solidity code from the Inbox.sol file. \
+  c) Open Remix-Ethereum IDE on machine/chrome. \
+  d) Erase and paste copied code in Ballot.sol file. \
+  e) Deploy using Integrated Web - Goreli Network Metamask \
+  f) Hurrrraahhhh !!! Your contract is deployed.\
+ 
+ Method 2:\
+ If you want to deploy it from terminal, go through these arguments step by step....\
+   a) npm init -y\
+   b) npm install solc@0.8.9 web3 mocha ganache-cli @truffle/hdwallet-provider\
+   c) npm run test\
+   d) node deploy.js \
+   e) Hurrrraahhhh !!! Your contract is deployed & now use the address in Remix Ethereum IDE to do transactions.\
 
  Have fun.....😉😉😉
+ 
