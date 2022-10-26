@@ -1,5 +1,5 @@
 # Decentralized_MessagePassing
-An Ethereum based SmartContract based on Solidity language which transfer message to node in a decentralized manner.
+A SmartContract on Ethereum network based on Solidity language which transfer message to node in a decentralized manner.
 Go through the below steps to checkout deployed smart contract.
 
 # Working of Project
