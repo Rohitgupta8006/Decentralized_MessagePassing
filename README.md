@@ -35,7 +35,7 @@ To deploy your own Message Passing smart contract.\
   c) Open Remix-Ethereum IDE on machine/chrome. \
   d) Erase and paste copied code in Ballot.sol file. \
   e) Deploy using Integrated Web - Goreli Network Metamask \
-  f) Hurrrraahhhh !!! Your contract is deployed.\
+  f) Hurrrraahhhh !!! Your contract is deployed.
  
  Method 2:\
  If you want to deploy it from terminal, go through these arguments step by step....\
@@ -43,6 +43,6 @@ To deploy your own Message Passing smart contract.\
    b) npm install solc@0.8.9 web3 mocha ganache-cli @truffle/hdwallet-provider\
    c) npm run test\
    d) node deploy.js \
-   e) Hurrrraahhhh !!! Your contract is deployed & now use the address in Remix Ethereum IDE to do transactions.\
+   e) Hurrrraahhhh !!! Your contract is deployed & now use the address in Remix Ethereum IDE to do transactions.
 
  Have fun.....😉😉😉
