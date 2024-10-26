@@ -14,7 +14,7 @@ I have already deployed a smart contract over Goreli Testnet, and the details of
 🔗Check Transactions: https://goerli.etherscan.io/address/0x36f56750c9f7759a201cF22de36Eb17408C3aDa0
    
 📌I have created a oneClick dApp to give the smart contract a very basic frontend look and make it easy for everyone to access and understand.\
-🔗Check out the dApp : https://oneclickdapp.com/everest-recycle
+🔗Check out the dApp: https://oneclickdapp.com/everest-recycle
  
  # Project Demonstration
  ![a](https://user-images.githubusercontent.com/66517701/198041104-a7d50663-805c-4c4e-bbcd-3aca72edd613.png)
